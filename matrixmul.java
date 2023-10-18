@@ -1,5 +1,3 @@
-package Anuex;
-
 public class matrixmul {
 
 	public static void main(String[] args) {
